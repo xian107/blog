@@ -79,6 +79,8 @@
 			<li>
 				<p><a href="http://efe.baidu.com/blog/how-to-create-you-own-native-bridge-c2/">How you create your own Native Bridge - JSVM and the first adventure</a></p>
 			</li>
+			<li><p>可以参考一下这篇文章：<a href="https://segmentfault.com/a/1190000005770042">开发工具心得：如何 10 倍提高你的 Webpack 构建效率</a><br>
+			很全面，也很有效。特别是dll和happypack。</p></li>
 		</ul>
 	</li>
 
