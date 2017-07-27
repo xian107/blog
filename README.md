@@ -33,8 +33,8 @@
 		</li>
 	</ul>
 	</li>
-	<li>
-		<ul>前端资源动态渲染模式
+	<li>前端资源动态渲染模式
+		<ul>
 			<li><p><a href="http://js8.in/2016/06/24/%E5%89%8D%E7%AB%AF%E8%B5%84%E6%BA%90%E5%8A%A8%E6%80%81%E6%B8%B2%E6%9F%93%E6%A8%A1%E5%BC%8F%E4%BB%8B%E7%BB%8D%E4%B9%8B%E6%A6%82%E8%A7%88%E7%AF%87/">前端资源动态渲染模式介绍之概览篇</a><br>
 <a href="http://js8.in/2016/07/12/%E5%89%8D%E7%AB%AF%E8%B5%84%E6%BA%90%E5%8A%A8%E6%80%81%E6%B8%B2%E6%9F%93%E6%A8%A1%E5%BC%8F%E4%BB%8B%E7%BB%8D%E4%B9%8Bcombo%E7%AF%87/">前端资源动态渲染模式介绍之combo篇</a><br>
 <a href="http://js8.in/2016/07/24/%E5%89%8D%E7%AB%AF%E8%B5%84%E6%BA%90%E5%8A%A8%E6%80%81%E6%B8%B2%E6%9F%93%E6%A8%A1%E5%BC%8F%E4%BB%8B%E7%BB%8D%E4%B9%8Bseed%E7%AF%87/">前端资源动态渲染模式介绍之seed篇</a></p></li>
